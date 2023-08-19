@@ -1,0 +1,97 @@
+.box1 {
+    background-color: rgb(121, 235, 121);
+    width: 800px;
+    height: 400px;
+}
+img {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ul {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    padding-inline-start: 0;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.eclipse {
+    background-color: #649549;
+} 
+
+.box2 {
+    background-color: white;
+    width: 80%;
+    height: 50vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 0%;
+}
+
+.highlight-text {
+    color: rgb(238, 188, 96);
+    font-size: 25px;
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    display: flex;
+    font-size: 25px;
+    flex-direction: row;
+}
+
+img {
+    height: 50%;
+    margin-left: 30px;
+}
+
+.box3 {
+    background-color: rgb(169, 232, 240);
+    width: 80%;
+    height: 50vh; 
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.box4 {
+    background-color: #C9ECB5;
+    width: 1000px;
+    height: 400px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0%;
+    flex-direction: row;
+    text-align: center;
+}
+
+.box5 {
+    background-color: #FFD77C;
+}
+
+footer {
+    background-color: #C9ECB5;
+}
